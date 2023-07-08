@@ -1,4 +1,10 @@
+<h3 id="jinrishici-sentence"></h3>
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
+<div align="center">
+	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=340 height=86 src="//music.163.com/song?id=18495436&userid=1731860644"></iframe>
+	<p>上面是个网易云生成的内嵌播放器</p>
+</div>
 
 # ranaの摄影小站
 
