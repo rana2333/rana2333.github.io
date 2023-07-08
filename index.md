@@ -1,5 +1,3 @@
-<h3 id="jinrishici-sentence"></h3>
-<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
 
 # ranaの摄影小站
