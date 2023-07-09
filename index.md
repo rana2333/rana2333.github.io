@@ -20,7 +20,7 @@
 
 ![图片](https://img1.imgtp.com/2023/07/09/pAZg2iDK.JPG "雾都")
 
-[![图片套娃超链接](https://img1.imgtp.com/2023/07/09/pAZg2iDK.JPG "描述")](https://fuibafuyu.net)
+[![图片套娃超链接](https://img1.imgtp.com/2023/07/09/QdLp5iiw.jpg "描述")](https://fuibafuyu.net)
 
 # B站播放器
 
