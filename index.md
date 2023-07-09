@@ -18,11 +18,9 @@
 >不定时更新<br>
 > 鸽子王（doge
 
-![图片](https://img1.imgtp.com/2023/07/08/k66CpmGR.jpg "描述")
+![图片](https://img1.imgtp.com/2023/07/09/pAZg2iDK.JPG "雾都")
 
-[![图片套娃超链接](https://img1.imgtp.com/2023/07/08/k66CpmGR.jpg "描述")](https://fuibafuyu.net)
-
-[Markdown语法](https://markdown.com.cn/basic-syntax)
+[![图片套娃超链接](https://img1.imgtp.com/2023/07/09/pAZg2iDK.JPG "描述")](https://fuibafuyu.net)
 
 # B站播放器
 
