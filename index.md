@@ -22,7 +22,7 @@
 
 [![图片套娃超链接](https://img1.imgtp.com/2023/07/09/QdLp5iiw.jpg "描述")](https://fuibafuyu.net)
 
-# B站播放器
+# 视频（雾
 
 <div align="center">
 	<iframe src="//player.bilibili.com/player.html?aid=80433022&bvid=BV1GJ411x7h7&cid=137649199&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
