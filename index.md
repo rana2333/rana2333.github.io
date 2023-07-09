@@ -14,9 +14,8 @@
 
 #### 不喜勿喷（doge
 
->[超链接](https://fuibafuyu.net "描述")<br>
->前面加个>就会出现左边那条线<br>
-> <p><br>是换行</p>
+>[bilibili主页](https://space.bilibili.com/640736191）<br>
+>不定时更新<br />鸽子王（doge
 
 ![图片](https://img1.imgtp.com/2023/07/08/k66CpmGR.jpg "描述")
 
